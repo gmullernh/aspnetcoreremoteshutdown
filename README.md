@@ -1,5 +1,5 @@
-# aspnetcoreremoteshutdown
-Application for remote shutdown basead on .net core ASP application.
+# ASP.NET Core Remote Control
+Application for remote control of a machine using .NET Core.
 
 ## About
 
